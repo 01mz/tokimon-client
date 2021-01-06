@@ -1,0 +1,32 @@
+.vbox {
+    -fx-background-color: white;
+}
+
+.grid {
+    -fx-background-color: white;
+    -fx-border-color: rgb(49, 89, 23);
+    -fx-border-radius: 5;
+    -fx-padding: 10;
+}
+
+.grid-cell {
+    -fx-border-insets: 1;
+    -fx-border-color: black;
+    -fx-background-color: aliceblue;
+
+}
+
+.label-status {
+    -fx-font-size: 18;
+    -fx-text-fill: black;
+}
+
+.button {
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-radius: 5;
+    -fx-background-color: cornflowerblue;
+    -fx-font-size: 18;
+    -fx-text-fill: white;
+}
+
